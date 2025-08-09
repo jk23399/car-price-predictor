@@ -7,3 +7,7 @@ fastapi
 uvicorn
 jupyter
 python-dotenv
+
+rapidfuzz
+tenacity
+tqdm
