@@ -11,3 +11,8 @@ python-dotenv
 rapidfuzz
 tenacity
 tqdm
+
+streamlit
+lightgbm
+scikit-learn
+joblib
